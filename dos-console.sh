@@ -10,7 +10,7 @@ fi
 hping='/usr/sbin/hping3'
 
 # Welcome Message
-whiptail --msgbox "Welcome to DOS Attack Framework" 10 40
+whiptail --msgbox "Welcome to DoS Attack Framework" 10 40
 whiptail --msgbox "Do not use for malicious attacks!" 10 40
 
 # Destination IP Address
