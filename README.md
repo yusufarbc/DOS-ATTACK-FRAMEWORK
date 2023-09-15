@@ -4,6 +4,7 @@ DOS ATTACK FRAMEWORK is a whiptail project that facilitate to perform DOS attack
 ## Getting Started
 --------------------------------------
 First of all, you must be root privileges to run this script. When the script runs, you will see the welcome message screen. To pass the next screen hit enter. You will see an alert in that screen. 
+
 DO NOT USE FOR MALICIOUS ACTIVITY.
 
 ![image](https://github.com/yusufarbc/DOS-ATTACK-FRAMEWORK/assets/77548038/5fbb7563-85cf-469a-b30a-815d3620696f)
