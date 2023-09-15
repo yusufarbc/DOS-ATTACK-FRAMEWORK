@@ -25,7 +25,7 @@ After that you will see a confirmation message. If you select yes, the attack wi
 
 ## Prerequisites
 --------------------------------------
-DOS ATTACK FRAMEWORK uses hping3 and Whiptail. So you have to make sure them already installed. The script is only runs a linux machine.
+DOS ATTACK FRAMEWORK uses hping3 and Whiptail. So you have to make sure them already installed. The script is only runs on a linux machine.
 
 ## Installation
 --------------------------------------
