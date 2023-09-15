@@ -29,7 +29,7 @@ DOS ATTACK FRAMEWORK uses hping3 and Whiptail. So you have to make sure them alr
 
 ## Installation
 --------------------------------------
-After ensuring the perform prerequisites, you can download dos-console.sh file from this repository. First of all, ensure the hping variable in the script is true directory of the hping3 tool. Then, you can position the script file in the directory you want and grant execution permission. If you move the script in the /bin directory you can easily run the script with 'dos-console' command.
+After ensuring the perform prerequisites, you can download dos-console.sh file from this repository. First of all, ensure the hping variable in the script is true directory of the hping3 tool. Then, you can position the script file in the directory you want and grant execution permission. If you move the script in the /bin directory you can easily run the script with 'dos-console' command. Remember you must be root priveleges to run this script.
 
 ```sh
 sudo su
