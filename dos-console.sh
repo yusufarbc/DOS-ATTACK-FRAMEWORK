@@ -38,7 +38,7 @@ CHOICE=$(whiptail --menu "Please select the attack type" 18 110 10 \
 "ACK-Flood" "sends TCP packets with ACK flag" \
 "ACK-Flood(with Timestamp)" "sends ACK flag with manipulated timestamp values" \
 "ACK-Flood(single source)" "sends ACK flag from single port" \
-"RST-FLood" "sends TCP packers with RST flag" \
+"RST-Flood" "sends TCP packers with RST flag" \
 "FIN-Flood" "sends TCP packets with FIN flag" \
 "SYN+ACK-Flood" "sends TCP packets with SYN+ACK flags" \
 "SYN+ACK-Flood(with Timestamp)" "sends SYN+ACK flag with manipulated timestamp values" \
