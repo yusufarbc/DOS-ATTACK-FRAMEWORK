@@ -1,5 +1,5 @@
-# DOS ATTACK FRAMEWORK
-DOS ATTACK FRAMEWORK is a whiptail project that facilitate to perform DOS attack with hping3 tool. Whiptail is a TUI(Text User Interface) environment running in linux terminal.
+# DoS Attack Framework 
+DoS Attack Framework is a whiptail project that facilitate to perform DOS attack with hping3 tool. Whiptail is a TUI(Text User Interface) environment running in linux terminal.
 
 ## Getting Started
 --------------------------------------
@@ -25,7 +25,7 @@ After that you will see a confirmation message. If you select yes, the attack wi
 
 ## Prerequisites
 --------------------------------------
-DOS ATTACK FRAMEWORK uses hping3 and Whiptail. So you have to make sure them already installed. The script is only runs on a linux machine.
+DoS Attack Framework uses hping3 and Whiptail. So you have to make sure them already installed. The script is only runs on a linux machine.
 
 ## Installation
 --------------------------------------
