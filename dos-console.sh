@@ -15,14 +15,14 @@ whiptail --msgbox "Do not use for malicious attacks!" 10 40
 
 # Destination IP Address
 IP=$(whiptail --inputbox "Please enter the destination IP Adresss" 10 50 3>&1 1>&2 2>&3)
-if [ -z "$CHOICE" ]
+if [ -z "$IP" ]
 then
   exit
 fi
 
 # Destination Port Adress
 Port=$(whiptail --inputbox "Please enter the destination Port Adress" 10 50 3>&1 1>&2 2>&3)
-if [ -z "$CHOICE" ]
+if [ -z "$Port" ]
 then
   exit
 fi  
