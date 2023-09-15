@@ -21,8 +21,8 @@ then
 fi
 
 # Destination Port Adress
-Port=$(whiptail --inputbox "Please enter the destination Port Adress" 10 50 3>&1 1>&2 2>&3)
-if [ -z "$Port" ]
+PORT=$(whiptail --inputbox "Please enter the destination Port Adress" 10 50 3>&1 1>&2 2>&3)
+if [ -z "$PORT" ]
 then
   exit
 fi  
